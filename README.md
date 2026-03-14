@@ -5,4 +5,4 @@ A port of Google Gemini color scheme
 
 ### Dark mode
 
-![Dark TypeScript Example](assets/xample-dark-ts.png)
+![Dark TypeScript Example](assets/example-dark-ts.png)
