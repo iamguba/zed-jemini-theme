@@ -30,6 +30,7 @@ const b = new Point(2, 2, "B");
 const distance = a.distance(b);
 console.log(`Distance between ${a} and ${b} is ${distance}`);
 
+// also calculate distance from center
 if (CALC_DISTANCE_FROM_CENTER) {
   const distanceFromCenter = a.distance(CENTER_POINT);
   console.log(
